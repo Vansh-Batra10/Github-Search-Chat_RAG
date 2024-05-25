@@ -1,5 +1,5 @@
 # GitHub Repository Search and Chat System Report
-
+![GitHub Repository Search and Chat System](RAG.png)
 ## Methodology
 
 ### 1. Data Acquisition
